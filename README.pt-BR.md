@@ -117,3 +117,5 @@ Veja o [CHANGELOG.pt-BR.md](CHANGELOG.pt-BR.md). Versão atual: **v0.0.2a (alfa)
 ## Licença
 
 MIT, copyright (c) 2026 BrunoBVM. Veja `LICENSE`.
+
+PS. A CLAUDE FEZ TUDO AQUI, EU SO QUERIA PODER JOGAR O JOGO.
