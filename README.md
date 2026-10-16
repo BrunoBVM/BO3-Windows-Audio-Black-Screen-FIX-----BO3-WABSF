@@ -117,3 +117,5 @@ See [CHANGELOG.md](CHANGELOG.md). Current release: **v0.0.2a (alpha)**.
 ## License
 
 MIT, copyright (c) 2026 BrunoBVM. See `LICENSE`.
+
+PS. CLAUDE DID ALL THE WORK, I JUST WANTED TO PLAY THE GAME LOL
